@@ -1,0 +1,29 @@
+.label{
+    margin-bottom: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.label p{
+    font-weight: 600;
+}
+
+.label span{
+    font-weight: 400;
+    margin-left: 0.5rem;
+    font-size: 14px;
+}
+
+.labelIcons{
+    display: flex;
+    gap: 0.4rem;
+    align-items: center;
+}
+
+.icons{
+    color: darkslategrey;
+    display: flex;
+    gap: 0.4rem;
+    align-items: center;
+}
